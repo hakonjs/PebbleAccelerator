@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hakonjs@gmail.com",
+    "longName": "accelerator",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "accelerator",
+    "uuid": "109aa795-8447-4d77-a586-fb8f226c948e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
